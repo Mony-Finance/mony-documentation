@@ -1,0 +1,76 @@
+********
+
+- [x] **1° Fase → Descrever o projeto**
+	- [x] Escrever um PRD → Documento de Requisitos do Produto
+		- [x] O que quero que ele tenha?
+		- [x] Quais as funcionalidades principais?
+			- [x] O que essas funcionalidades farão?
+			- [x] Qual problemas cada uma delas resolve?
+	- [x] O que é o projeto?
+	- [x] Qual problema ele resolve?
+	- [x] Qual seu deferencial?
+	- [x] Quem são os possíveis usuários??
+	- [x] Quais tecnologias utilizar?
+	- [x] Fazer um MVP → Produto Minimo Viável
+		- [x] Quais as funcionalidades serão as principais?
+		- [x] Quais as funcionalidades colocar em produção inicialmente?
+		- [x] Regra de Negócio da Mony
+		- [x] Como Monetizar?
+- [ ] **2° Fase → Análise de Mercado**
+	- [x] Pesquisar sobre aplicações parecidas
+		- [x] Quem são nossos concorrentes? 
+		- [x] O que cada um deles faz?
+	- [x] Fazer análise dos mesmos
+		- [x] No que eles são bons?
+		- [x] No que são ruins? → _Tua opinião_
+		- [x] Principais reclamações? → _Reclame aqui!_ _(Outros)_
+			- [x] Reclame Aqui!
+		- [ ] Analisar os Anúncios
+			- [ ] Como eles fazer marketing?
+			- [ ] Onde eles publicam os anúncios?****
+			- [ ] Qual a estratégia do anúncio? 
+			- [ ] Como eles vendem?
+			- [ ] Quantos anúncios estão rodando?
+		- [ ] Qual o CAC deles → Custo de Aquisição do Cliente?
+		- [ ] Com base nos dados adquiridos → O que faremos de melhor e diferencial?
+	- [ ] Definir diferencias para sua aplicação com base nos concorrentes
+- [ ] **3° Fase → Desenvolver UX/UI da aplicação**
+	- [ ] Fazer wireframe de todas as telas junto com fluxo da aplicação
+	- [ ] Fazer designe dos wireframes no Figma
+- [ ] **4°  Fase → Desenvolvimento da aplicação**
+	- [ ] Desenvolver front-end
+		- [ ] Regra de Negócio da Mony
+		- [ ] Primeiras telas do MVP
+			- [ ] Tela de Cadastro
+			- [ ] Tela de Login
+			- [ ] Tela principal do App _( home )_ 
+	- [ ] Desenvolver back-end
+		- [ ] Implementar a lógica da aplicação
+			- [ ] Adicionar usuários no DBA
+			- [ ] Login com conta já criada
+			- [ ] Features principais da tela _( home )_ do app
+	- [ ] Desenvolver DBA da aplicação
+	- [ ] Estrutura Inicial do Banco de Dados
+		- [ ] Cadastro de Usuários
+		- [ ] Login de Usuários
+- [ ] **5°  Fase → Testes da Aplicação**
+	- [ ] Pessoas/empresas que possam fazer o teste da aplicação gratuitamente
+- [ ] **6° Fase → Monetização**
+	- [ ] Maneiras de monetização
+		- [ ] Ads?
+		- [ ] Planos e assinaturas mensais?
+		- [ ] Venda da aplicação?
+	- [ ] Como monetizar? 
+- [ ] **7° Fase → Marketing e divulgação**
+	- [ ] Como divulgar essa aplicação?
+	- [ ] Por onde fazer a divulgação
+	- [ ] Qual o valor do investimento?
+- [ ] **8° Fase → Previsão de Faturamento** 
+	- [ ] Fazer uma previsão de faturamento anual com base no valor do produto etc.
+- [ ] **9° Fase → Procurar investidores, sócios, colaboradores e desenvolvedor no geral**
+	- [ ] Sócios
+		- [ ] Sócios Desenvolvedores
+		- [ ] Sócios Investidores
+	- [ ] Colaboradores
+		- [ ] Desenvolvedores
+- [ ] **10° Fase → Qual o Resultado?**
