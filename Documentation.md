@@ -235,6 +235,6 @@
 
 - Fazer wireframe de todas as telas junto com fluxo da aplicação
 	
-	 Link provisório [Wireframe](https://excalidraw.com/#json=LpXHR2Cx4HgKTF1aZobDG,t7L9yZptN08JmqMZPIralg) 
+	 Link provisório [Wireframe](https://excalidraw.com/#json=tubxvdBOs_AZXxEWpgbDA,nZsAnOCWi1fpKRQup_IO9Q) 
 	
 - Fazer designe dos wireframes no Figma
